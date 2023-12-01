@@ -1,0 +1,9 @@
+ Calcule o valor de uma viagem.
+
+ Variaveis:
+    1-combustivel
+    2-consumo
+    3-distancia
+
+Imprima o valor total
+
