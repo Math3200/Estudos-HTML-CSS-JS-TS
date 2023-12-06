@@ -7,3 +7,5 @@
 
 Imprima o valor total
 
+
+Parte 2: Incrementar valores diferentes para gasolina e alcool
