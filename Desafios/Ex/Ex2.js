@@ -18,3 +18,37 @@ if (IMC < 18.5) {
 }
 
 
+
+
+// Usando function
+
+function calculo(peso, altura) {
+    return peso/(altura*altura);
+}
+function Classificacao(IMC) {
+    if (IMC < 18.5) {
+        return'Magreza'
+    } else if (IMC >= 18.5 && IMC <= 24.9) {
+        return'Normal'
+    } else if (IMC >= 25 && IMC <= 29.9) {
+        return'Sobrepeso'
+    } else if (IMC >= 30 && IMC <= 34.9) {
+        return'Obesidade grau I'
+    } else if (IMC >= 35 && IMC <= 39.9) {
+        return'Obesidade grau II'
+    } else {
+        return 'Obesidade grau III'
+    }
+}
+
+function IMC() {  
+    let peso = 100;
+    let altura = 1.80;
+
+    let IMC = calculo(peso, altura);
+    console.log(Classificacao);
+}
+
+IMC();
+
+

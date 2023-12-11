@@ -1,0 +1,4 @@
+1 Crie uma função para escrever um nome.
+
+2 Faça uma função para verificar se é
+maior de idade
