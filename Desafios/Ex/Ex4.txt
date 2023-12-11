@@ -1,4 +1,6 @@
 1 Crie uma função para escrever um nome.
 
 2 Faça uma função para verificar se é
-maior de idade
+maior de idade.
+
+3.Refazer ex da forma de pagamento com function
