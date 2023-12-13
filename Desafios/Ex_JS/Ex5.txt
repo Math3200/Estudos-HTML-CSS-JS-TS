@@ -1,0 +1,5 @@
+1. Crie uma classe para representar carros.
+    Possuem marca, cor, consumo.
+    Crie um método que dado a quantidade de km nos de o gasto de um determinado percurso.
+
+2. 
