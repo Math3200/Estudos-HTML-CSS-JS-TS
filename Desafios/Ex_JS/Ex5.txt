@@ -2,4 +2,6 @@
     Possuem marca, cor, consumo.
     Crie um método que dado a quantidade de km nos de o gasto de um determinado percurso.
 
-2. 
+2. Crie uma classe para representar pessoas.
+    Possuem nome, peso e altura. Devem ter capacidade de dizer seu imc.
+    Instancie uma pessoa 'jose' com 70kg e 1,75 de altura.
