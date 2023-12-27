@@ -1,0 +1,5 @@
+1. Crie um programa que dado um número imprima sua tabuada.
+
+2. Programa que pode percorrer lista de numero e que imprima os pares
+
+3. Programa que pode percorrer lista de numero e que imprima os impares 
