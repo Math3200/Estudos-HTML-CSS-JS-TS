@@ -1,0 +1,4 @@
+Uma sala tem 5 alunos e para cada aluno foi sorteado um número de 1 a 100.
+Faça um programa que receba os 5 números para os alunos e mostre o maior.
+
+Entradas 5, 50, 10 ,98 e 23

@@ -10,5 +10,5 @@ function print(teste){
     console.log(teste);
 }
 
-module.exports = (gets, print);
+module.exports = {gets, print};
 
