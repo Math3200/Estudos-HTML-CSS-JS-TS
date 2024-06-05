@@ -2,13 +2,15 @@
 
 //Criando gets e print
 
-function gets(){
+function gets() {
     return 10;
 }
 
-function print(teste){
+function print(teste) {
     console.log(teste);
 }
 
-module.exports = {gets, print};
+module.exports = {
+    gets, print
+};
 
